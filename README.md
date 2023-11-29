@@ -6,18 +6,15 @@
 ## 目录结构
 
 ```
-bdd-processing/
-|-- src/
-|   |-- main.c
-|   |-- cudd_functions.c
-|   |-- cudd_functions.h
-|   |-- json_functions.c
-|   |-- json_functions.h
+eda230906/
+|-- test.c
+|-- Cjson.c
+|-- Cjson.h
 |-- build.sh
+|-- run.sh
 |-- README.md
 ```
 
-- **src/**：包含源代码文件。
 - **build.sh**：编译程序的脚本。
 - **README.md**：本文件，提供说明和信息。
 =======
